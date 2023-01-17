@@ -48,27 +48,27 @@ sections:
       items:
         - name: Software Engineering
 #          description: 100%
-          icon: fa-code
+          icon: code
           icon_pack: fas
         - name: Machine Learning
 #          description: 70%
-          icon: chart-line
+          icon: th
           icon_pack: fas
         - name: Deep Learning
 #          description: 50%
-          icon: chart-line
+          icon: brain
           icon_pack: fas
         - name: Software Security
 #          description: 50%
-          icon: fa-expeditedssl
-          icon_pack: fab
+          icon: user-secret
+          icon_pack: fas
         - name: Cloud Computing
 #          description: 70%
           icon: docker
           icon_pack: fab
         - name: Quantum Computing
 #          description: 40%
-          icon: fa-atom
+          icon: atom
 #fa-react
           icon_pack: fas
   - block: experience
