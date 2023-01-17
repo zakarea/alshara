@@ -1,8 +1,8 @@
 ---
 title: CERN/CMS Data Curation
-summary: extracting the metadata (in particular the provenance chain) long after the data production has happened, can be problematic because of changes in the different storage systems and their interfaces.
+summary: Extracting the metadata (in particular the provenance chain) long after the data production has happened, can be problematic because of changes in the different storage systems and their interfaces.
 tags:
-  - Dataset metadata
+  - CMS
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
