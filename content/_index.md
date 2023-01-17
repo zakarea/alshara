@@ -158,30 +158,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://qiskit.org
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2022-01-25'
+          description: 'Quantum computing has become a global conversation, and whether in media or movies, fact or fiction, the excitement for quantum is growing every day. This free course covers quantum information at a detailed mathematical level. Join John Watrous as you explore quantum information, quantum algorithms, and how to understand and mitigate noise.'
+          organization: ©Qiskit
+          organization_url: https://qiskit.org/
+          title: Basics of quantum information
+          url: 'https://qiskit.org/learn/course/basics-quantum-information/'
+        - certificate_url: https://www.crealead.com
+          date_end: '2017-10-13'
+          date_start: '2017-10-09'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: CREALEAD
+          organization_url: https://www.crealead.com
+          title: Web Application Development using Angular
+          url: https://www.crealead.com/actualites/applications-web-libres-avec-angular-montpellier
     design:
       columns: '2'
   - block: collection
@@ -228,8 +220,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Software Engineering
+          tag: Software Engineering
+        - name: CMS
+          tag: CMS
+        - name: Machin Learning
+          tag: Machin Learning
         - name: Other
           tag: Demo
     design:
