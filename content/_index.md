@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       image:
-        filename: home.jpg
+        filename: home.png
 #      cta:
 #        label: '**Get Started**'
 #        url: https://wowchemy.com/templates/
@@ -47,27 +47,27 @@ sections:
       title: Interest
       items:
         - name: Software Engineering
-          description: 100%
+#          description: 100%
           icon: r-project
           icon_pack: fab
         - name: Machine Learning
-          description: 70%
+#          description: 70%
           icon: chart-line
           icon_pack: fas
         - name: Deep Learning
-          description: 50%
+#          description: 50%
           icon: chart-line
           icon_pack: fas
         - name: Software Security
-          description: 50%
+#          description: 50%
           icon: chart-line
           icon_pack: fas
         - name: Cloud Computing
-          description: 70%
+#          description: 70%
           icon: camera-retro
           icon_pack: fas
         - name: Quantum Computing
-          description: 40%
+#          description: 40%
           icon: camera-retro
           icon_pack: fas
   - block: experience
