@@ -86,7 +86,7 @@ sections:
         - title: Assistant Professor of Software Engineering
           company: Jordan University of Science and Technology,
           company_url: 'https://www.just.edu.jo/'
-          company_logo: org-gc
+          company_logo: just
           location: Jordan
           date_start: '2018-09-09'
           date_end: ''
