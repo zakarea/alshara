@@ -83,27 +83,66 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Assistant Professor of Software Engineering
+          company: Jordan University of Science and Technology,
+          company_url: 'https://www.just.edu.jo/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Jordan
+          date_start: '2018-09-09'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Teaching
+              * Research
+              * Supervision
+        - title: Deputy Director
+          company: Information Technology and Communication Center
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2022-09-01'
+          date_end: ''
+          description: Jordan University of Science and Technology.
+        - title: Research and Development
+          company: Berger-Levrault
+          company_url: 'https://www.berger-levrault.com/'
+          company_logo: org-x
+          location: France
+          date_start: '2017-09-01'
+          date_end: '2018-06-01'
+          description: Develop transformation models to transform legacy services into modern ones.
+        - title: Post-Doctoral
+          company: IMT Atlantique,
+          company_url: 'https://www.imt-atlantique.fr/en'
+          company_logo: org-x
+          location: France
+          date_start: '2016-09-01'
+          date_end: '2017-09-01'
+          description: ASCOLA Research Group/Inria Research Centres, CoMe4ACloud funded project.
+        - title: Senior researcher
+          company: LIRMM/CNRS
+          company_url: 'https://www.lirmm.fr/lirmm-en/'
+          company_logo: org-x
+          location: France
+          date_start: '2013-06-01'
+          date_end: '2016-09-01'
+          description: MAREL team.
+        - title: Mobile Team Leader
+          company: OTS Inc.
+          company_url: ''
+          company_logo: org-x
+          location: Jordan
+          date_start: '2010-02-01'
+          date_end: '2013-06-01'
+          description:
+        - title: Mobile Game developer
+          company: Maysalward
+          company_url: 'https://maysalward.com/'
+          company_logo: org-x
+          location: Jordan
+          date_start: '2007-07-01'
+          date_end: '2010-02-01'
+          description:
     design:
       columns: '2'
   - block: accomplishments
