@@ -98,7 +98,7 @@ sections:
         - title: Deputy Director
           company: Information Technology and Communication Center
           company_url: ''
-          company_logo: org-x
+          company_logo: just
           location: California
           date_start: '2022-09-01'
           date_end: ''
@@ -106,7 +106,7 @@ sections:
         - title: Research and Development
           company: Berger-Levrault
           company_url: 'https://www.berger-levrault.com/'
-          company_logo: org-x
+          company_logo: just
           location: France
           date_start: '2017-09-01'
           date_end: '2018-06-01'
@@ -114,7 +114,7 @@ sections:
         - title: Post-Doctoral
           company: IMT Atlantique,
           company_url: 'https://www.imt-atlantique.fr/en'
-          company_logo: org-x
+          company_logo: just
           location: France
           date_start: '2016-09-01'
           date_end: '2017-09-01'
@@ -122,7 +122,7 @@ sections:
         - title: Senior researcher
           company: LIRMM/CNRS
           company_url: 'https://www.lirmm.fr/lirmm-en/'
-          company_logo: org-x
+          company_logo: just
           location: France
           date_start: '2013-06-01'
           date_end: '2016-09-01'
@@ -130,7 +130,7 @@ sections:
         - title: Mobile Team Leader
           company: OTS Inc.
           company_url: ''
-          company_logo: org-x
+          company_logo: just
           location: Jordan
           date_start: '2010-02-01'
           date_end: '2013-06-01'
@@ -138,7 +138,7 @@ sections:
         - title: Mobile Game developer
           company: Maysalward
           company_url: 'https://maysalward.com/'
-          company_logo: org-x
+          company_logo: just
           location: Jordan
           date_start: '2007-07-01'
           date_end: '2010-02-01'
