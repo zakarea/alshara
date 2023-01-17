@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       image:
-        filename: home.png
+        filename: home1.png
 #      cta:
 #        label: '**Get Started**'
 #        url: https://wowchemy.com/templates/
