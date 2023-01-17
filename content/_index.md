@@ -48,8 +48,8 @@ sections:
       items:
         - name: Software Engineering
 #          description: 100%
-          icon: r-project
-          icon_pack: fab
+          icon: fa-code
+          icon_pack: fas
         - name: Machine Learning
 #          description: 70%
           icon: chart-line
@@ -60,15 +60,16 @@ sections:
           icon_pack: fas
         - name: Software Security
 #          description: 50%
-          icon: chart-line
-          icon_pack: fas
+          icon: fa-expeditedssl
+          icon_pack: fab
         - name: Cloud Computing
 #          description: 70%
-          icon: camera-retro
-          icon_pack: fas
+          icon: fa-docker
+          icon_pack: fab
         - name: Quantum Computing
 #          description: 40%
-          icon: camera-retro
+          icon: fa-atom
+#fa-react
           icon_pack: fas
   - block: experience
     content:
