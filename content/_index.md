@@ -64,7 +64,7 @@ sections:
           icon_pack: fab
         - name: Cloud Computing
 #          description: 70%
-          icon: fa-docker
+          icon: docker
           icon_pack: fab
         - name: Quantum Computing
 #          description: 40%
