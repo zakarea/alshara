@@ -86,7 +86,7 @@ sections:
         - title: Assistant Professor of Software Engineering
           company: Jordan University of Science and Technology,
           company_url: 'https://www.just.edu.jo/'
-          company_logo: org-x
+          company_logo: just
           location: Jordan
           date_start: '2018-09-09'
           date_end: ''
@@ -106,7 +106,7 @@ sections:
         - title: Research and Development
           company: Berger-Levrault
           company_url: 'https://www.berger-levrault.com/'
-          company_logo: just.png
+          company_logo: org-x
           location: France
           date_start: '2017-09-01'
           date_end: '2018-06-01'
