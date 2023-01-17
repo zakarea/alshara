@@ -106,7 +106,7 @@ sections:
         - title: Research and Development
           company: Berger-Levrault
           company_url: 'https://www.berger-levrault.com/'
-          company_logo: org-x
+          company_logo: just.png
           location: France
           date_start: '2017-09-01'
           date_end: '2018-06-01'
