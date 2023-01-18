@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Talk
 
 event: SDS 2022 Conference
 event_url: https://emergingtechnet.org/SDS2022/
