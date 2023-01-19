@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zakarea AL-SHARA
+title: Zakarea Alshara
 
 # Full name (for SEO)
 first_name: Zakarea
