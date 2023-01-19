@@ -99,7 +99,7 @@ sections:
           company: Information Technology and Communication Center
           company_url: ''
           company_logo: just
-          location: California
+          location: Jordan
           date_start: '2022-09-01'
           date_end: ''
           description: Jordan University of Science and Technology.
