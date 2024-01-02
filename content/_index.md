@@ -95,7 +95,7 @@ sections:
               * Teaching
               * Research
               * Supervision
-            - title: Assistant Professor of Software Engineering
+        - title: Assistant Professor of Software Engineering
           company: Jordan University of Science and Technology,
           company_url: 'https://www.just.edu.jo/'
           company_logo: just
