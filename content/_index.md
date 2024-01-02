@@ -83,13 +83,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistant Professor of Software Engineering
+        - title: Associate Professor of Software Engineering
+          company: Jordan University of Science and Technology,
+          company_url: 'https://www.just.edu.jo/'
+          company_logo: just
+          location: Jordan
+          date_start: '2023-09-09'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Teaching
+              * Research
+              * Supervision
+            - title: Assistant Professor of Software Engineering
           company: Jordan University of Science and Technology,
           company_url: 'https://www.just.edu.jo/'
           company_logo: just
           location: Jordan
           date_start: '2018-09-09'
-          date_end: ''
+          date_end: '2023-09-09'
           description: |2-
               Responsibilities include:
               * Teaching
