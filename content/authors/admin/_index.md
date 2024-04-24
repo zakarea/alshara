@@ -4,7 +4,7 @@ title: Zakarea Alshara
 
 # Full name (for SEO)
 first_name: Zakarea
-last_name: AL-SHARA
+last_name: ALSHARA
 
 # Status emoji
 status:
